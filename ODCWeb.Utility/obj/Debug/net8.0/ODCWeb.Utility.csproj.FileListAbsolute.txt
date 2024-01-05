@@ -1,0 +1,14 @@
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\bin\Debug\net8.0\ODCWeb.Utility.deps.json
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\bin\Debug\net8.0\ODCWeb.Utility.runtimeconfig.json
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\bin\Debug\net8.0\ODCWeb.Utility.dll
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\bin\Debug\net8.0\ODCWeb.Utility.pdb
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.csproj.AssemblyReference.cache
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.AssemblyInfo.cs
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.dll
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\refint\ODCWeb.Utility.dll
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.pdb
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ODCWeb.Utility.genruntimeconfig.cache
+C:\Users\ZC\Desktop\Odlan Development\ODCWeb\ODCWeb.Utility\obj\Debug\net8.0\ref\ODCWeb.Utility.dll
